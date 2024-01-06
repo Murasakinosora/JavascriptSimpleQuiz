@@ -1,0 +1,16 @@
+#quest0,#quest1,#quest2,#quest3,#quest4{
+    list-style-type: none;
+    padding-left: 1rem;
+    cursor: pointer;
+}
+.correct{
+    background: green;
+    color: black
+}
+.incorrect{
+    background: red;
+    color: black;
+}
+#next{
+    display: none;
+}
